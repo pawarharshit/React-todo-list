@@ -1,0 +1,19 @@
+.main-block {
+  background-color: rgb(196, 196, 196);
+  height: 70%;
+  width: 60%;
+  border-radius: 20px;
+}
+
+.heading {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 32px;
+  padding-left: 20px;
+}
+
+.task-list {
+  list-style: none;
+  height: 50%;
+  padding: 20px;
+  overflow: scroll;
+}

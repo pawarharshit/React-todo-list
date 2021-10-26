@@ -1,0 +1,35 @@
+.task-form {
+  /* background-color: red; */
+  height: 14%;
+  text-align: right;
+
+}
+
+.input {
+  text-align: center;
+  padding: 10px;
+}
+
+.input label{
+  margin: 15px;
+  font-size: 20px;
+}
+
+.input input {
+  width: 50%;
+  height: 25px;
+  padding-left: 20px;
+  border-radius: 5px;
+  font-size: 15px;
+  border: 1px solid gray;
+}
+
+
+.btn {
+  margin-right: 30px;
+  width: 25%;
+  height: 25px;
+  font-size: 15px;
+  background-color: rgb(88, 88, 175);
+  color: white;
+}
